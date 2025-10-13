@@ -54,5 +54,9 @@ See our [directory](DIRECTORY.md) for easier navigation and a better overview of
 ## 💡 more resources 
 
 See [gitbook](https://dsic.gitbook.io/python3/estructuras-de-control) for python basics.
+
 [@liaoxuefeng.com](https://liaoxuefeng.com/books/python/basic/index.html)
+
 [@w3schools.com](https://www.w3schools.com/python/default.asp)
+
+[@Python_Docs](https://docs.python.org/3/)
