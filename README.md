@@ -62,3 +62,4 @@ See [gitbook](https://dsic.gitbook.io/python3/estructuras-de-control) for python
 [@Python_Docs](https://docs.python.org/3/)
 
 [@geeksforgeeks.org](https://www.geeksforgeeks.org/python/python-programming-language-tutorial/)
+https://linuxhint.com/python_scripts_beginners_guide/#post-67157-13
